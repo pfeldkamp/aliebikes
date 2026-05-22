@@ -2,6 +2,6 @@
 
 Interactive map of Strava GPX traces across Denmark.
 
-[Open interactive map](figs/rides_map.html)
+🌍 [Open live map](https://github.com/pfeldkamp/aliebikes/figs/rides_map.html)
 
 ![Map preview](figs/preview.png)
